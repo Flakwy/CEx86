@@ -5,9 +5,7 @@ It implements most x86 features required for general purpose computing and super
 external device interaction, meaning it should be able to boot Linux. It will also support serializing
 and deserializing machine state, provided by fnuecke's Ceres serialization API.
 
-fnuecke's projects can be found at:
-[Sedna](https://github.com/fnuecke/sedna)
-[Ceres](https://github.com/fnuecke/ceres)
+fnuecke's projects can be found at: [Sedna](https://github.com/fnuecke/sedna) and [Ceres](https://github.com/fnuecke/ceres)
 
 ## Structure
 
